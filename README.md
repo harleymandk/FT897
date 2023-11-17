@@ -1,5 +1,7 @@
 # FT897d
 Stuff for my FT897d
+info : https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=0372FA803B7BBADBF3076C94ACA7A8C5&DivisionID
+
 he FT-897D is a rugged, innovative, multiband, multimode portable transceiver for the amateur radio MF/HF/VHF/UHF bands. Providing coverage of the 160-10 meter bands plus the 6 m, 2 m, and 70 cm bands, the FT-897 includes operation on the SSB, CW, AM, FM, and Digital modes, and it's capable of 20-Watt portable operation using internal batteries, or up to 100 Watts when using an external 13.8-volt DC power source.
 
 The new FT-897"D" version includes coverage of the U.S. 60-meter (5 MHz) band, along with the 0.5 ppm TCXO Unit, at no additional charge!
