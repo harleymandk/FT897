@@ -34,3 +34,15 @@ For DX-pedition use, a unique “Beacon” mode allows you to send a repetitive 
 
 And if you’re looking to upgrade your license class, the CW Trainer feature will send five-character letters and/or numbers via the speaker, so you can practice CW reception when the bands are dead!
 
+
+ Are the 60-meter frequencies in my FT-897 off frequency?
+Not at all.
+
+Your attention is directed to ARRL's FAQ regarding 60-meter operation: http://www.arrl.org/FandES/field/regulations/faq-60.html
+
+NTIA specifies channels in terms of "channel center" frequencies, where as amateur transceivers, in tuning a commercial channel, typically must be tuned 1.5 kHz lower than the specified "channel center" frequency. For example, for a "channel center" frequency of 5332 kHz, you tune a "traditional" transceiver to 5330.5 kHz.
+
+So go ahead and try it. Set up an FT-817ND/857D/897D to the "5332" channel, and tune your FT-1000MP to 5330.5 kHz. Now transmit from the 817ND/857D/897D; you will find that you are precisely on frequency as you monitor on the other transceiver.
+
+Note: If you program 5330.5 kHz into a "regular" memory from the VFO, it will be on the same frequency as the "5332 kHz" channel in the special 5 MHz memory bank, as the 60-meter bank (only) displays according to the "channel center" format.
+
